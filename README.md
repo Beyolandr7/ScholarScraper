@@ -1,6 +1,6 @@
 # ScholarScraper
 
-[![Project Status](https://img.shields.io/badge/Project%20status-On%20going-yellow)](https://github.com/YourUsername/ScholarScraper)
+[![Project Status](https://img.shields.io/badge/Project%20status-Finished-green)](https://github.com/YourUsername/ScholarScraper)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](#)
